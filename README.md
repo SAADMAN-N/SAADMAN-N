@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Sharf and I'm a developer, from Michigan</h2>
 
-<h3 href="https://portfolio-v3-grwd-d9hgzggsd-saadman-ns-projects.vercel.app/"> Visit my site</h3>
+<a><h3>Visit my site</h3></a>
 
 ###
 
